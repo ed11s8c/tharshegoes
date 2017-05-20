@@ -3,3 +3,4 @@
 FROM docker:latest
 
 RUN apk update
+RUN apk git
